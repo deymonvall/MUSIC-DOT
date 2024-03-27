@@ -1,9 +1,13 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    width: 940px;
+    margin-left:auto;
+    margin-right: auto;
 }
 h1{
     color: #3D3D3D;
     background-color: #E1EDF2;
+    padding: 10px;
 }
 h2{
     border-bottom: 3px solid;
@@ -12,4 +16,9 @@ figure{
     text-align: center;
     background-color:  whitesmoke;
     color: lightgrey;
+    padding: 15px;
+    margin: 30px;
+}
+figcaption{
+    margin-top: 10px;
 }
