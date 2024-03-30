@@ -1,24 +1,41 @@
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
     width: 940px;
-    margin-left:auto;
+    margin-left: auto;
     margin-right: auto;
 }
-h1{
+
+h1 {
     color: #3D3D3D;
     background-color: #E1EDF2;
     padding: 10px;
 }
-h2{
+
+h2 {
     border-bottom: 3px solid;
 }
-figure{
+
+figure {
     text-align: center;
-    background-color:  whitesmoke;
+    background-color: whitesmoke;
     color: lightgrey;
     padding: 15px;
     margin: 30px;
 }
-figcaption{
+
+figcaption {
     margin-top: 10px;
+}
+
+#matriz {
+    margin: auto;
+    width: 550px;
+}
+
+#familia {
+    width: 275px;
+    float: right;
+}
+img{
+    max-width: 100%;
 }
