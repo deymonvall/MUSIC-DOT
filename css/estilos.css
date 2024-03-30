@@ -5,13 +5,14 @@ body {
     margin-right: auto;
 }
 
-h1 {
+.titulo {
     color: #3D3D3D;
     background-color: #E1EDF2;
     padding: 10px;
+    font-size: 2em;
 }
 
-h2 {
+.subtitulos  {
     border-bottom: 3px solid;
 }
 
